@@ -1,0 +1,12 @@
+# ROS 2 colcon metadata
+.colcon/
+
+# IDEs/editors
+.vscode/
+.idea/
+*.swp
+
+# Python cache
+__pycache__/
+*.pyc
+
